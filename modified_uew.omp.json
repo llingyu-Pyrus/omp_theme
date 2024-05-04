@@ -32,7 +32,7 @@
               "fetch_worktree_count": true
             },
             "style": "diamond",
-            "template": "<#fff>{{ .UpstreamIcon }}</>{{ .HEAD }}",
+            "template": " <#fff>{{ .UpstreamIcon }}</>{{ .HEAD }}",
             "type": "git"
           },
           {
